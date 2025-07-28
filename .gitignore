@@ -12,6 +12,14 @@ instance_ufos
 .ninja_log
 build.ninja
 
+# MB
+# local helper files
+# font bakery reports folder
+reports
+# font bakery command file
+*.command
+####
+
 # OS generated files #
 ######################
 .DS_Store
