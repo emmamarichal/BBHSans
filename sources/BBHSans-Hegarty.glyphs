@@ -1,5 +1,5 @@
 {
-.appVersion = "3420";
+.appVersion = "3310";
 .formatVersion = 3;
 DisplayStrings = (
 "HHOOHo
@@ -8206,8 +8206,9 @@ width = 478;
 unicode = 45;
 },
 {
+export = 0;
 glyphname = softhyphen;
-lastChange = "2025-07-24 08:47:57 +0000";
+lastChange = "2025-08-14 08:43:50 +0000";
 layers = (
 {
 layerId = m01;

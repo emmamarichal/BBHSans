@@ -1,9 +1,6 @@
 {
-.appVersion = "3420";
+.appVersion = "3310";
 .formatVersion = 3;
-DisplayStrings = (
-"/.notdef"
-);
 customParameters = (
 {
 name = glyphOrder;
@@ -4659,8 +4656,9 @@ width = 440;
 unicode = 45;
 },
 {
+export = 0;
 glyphname = softhyphen;
-lastChange = "2025-06-30 10:04:55 +0000";
+lastChange = "2025-08-14 08:43:18 +0000";
 layers = (
 {
 layerId = "39DC058D-615C-44EE-9158-2D05AB2D1C50";
