@@ -6244,6 +6244,26 @@ metricWidth = "=222";
 unicode = 8287;
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = "39DC058D-615C-44EE-9158-2D05AB2D1C50";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = "39DC058D-615C-44EE-9158-2D05AB2D1C50";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 glyphname = .notdef;
 lastChange = "2025-08-13 14:18:54 +0000";
 layers = (
