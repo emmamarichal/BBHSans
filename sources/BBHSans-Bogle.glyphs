@@ -128,7 +128,7 @@ value = 1;
 }
 );
 date = "2025-04-15 10:57:34 +0000";
-familyName = "BBH Sans";
+familyName = "BBH Sans Bogle";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;";
@@ -6563,18 +6563,7 @@ instances = (
 instanceInterpolations = {
 "39DC058D-615C-44EE-9158-2D05AB2D1C50" = 1;
 };
-name = Bogle;
-properties = (
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "BBH Sans";
-}
-);
-}
-);
+name = Regular;
 }
 );
 kerningLTR = {

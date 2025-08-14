@@ -132,7 +132,7 @@ value = 1;
 }
 );
 date = "2025-04-15 10:57:34 +0000";
-familyName = "BBH Sans";
+familyName = "BBH Sans Bartle";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;";
@@ -6642,18 +6642,7 @@ instances = (
 instanceInterpolations = {
 "C18D3387-8030-4A68-97FB-3AF8A3E1D39D" = 1;
 };
-name = Bartle;
-properties = (
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = "BBH Sans";
-}
-);
-}
-);
+name = Regular;
 }
 );
 kerningLTR = {
