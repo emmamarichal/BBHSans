@@ -1,8 +1,8 @@
 sources:
-  - BBHSans-Bartle.glyphs
-  - BBHSans-Bogle.glyphs
-  - BBHSans-Hegarty.glyphs
-familyName: "BBH Sans"
+  - BBHDisplay-Bartle.glyphs
+  - BBHDisplay-Bogle.glyphs
+  - BBHDisplay-Hegarty.glyphs
+familyName: "BBH Display"
 buildVariable: false
 buildStatic: true
 buildTTF: true
