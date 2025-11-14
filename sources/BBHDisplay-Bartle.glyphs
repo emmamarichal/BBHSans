@@ -1,6 +1,24 @@
 {
 .appVersion = "3428";
 .formatVersion = 3;
+DisplayStrings = (
+"Angled Handles:
+BQRS3?{©€£
+
+Almost Orthogonal Lines:
+MQ™
+
+Short Line Segments:
+BCGPQR/J.ss01 
+
+Bad Path Orientation:
+×
+
+Decimal Coordinates:
+£
+
+"
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -5824,7 +5842,7 @@ unicode = 8364;
 },
 {
 glyphname = sterling;
-lastChange = "2025-11-14 09:04:38 +0000";
+lastChange = "2025-11-14 09:14:42 +0000";
 layers = (
 {
 background = {
@@ -5887,12 +5905,12 @@ nodes = (
 (428,507,o),
 (442,519,o),
 (470,519,cs),
-(496.141,519,o),
-(511.125,501.15,o),
-(521.202,468.281,c),
-(756.108,539.51,l),
-(718.403,658.38,o),
-(602.713,716,o),
+(496,519,o),
+(511,501,o),
+(521,468,c),
+(756,540,l),
+(718,658,o),
+(603,716,o),
 (461,716,cs),
 (296,716,o),
 (185,637,o),
@@ -5982,7 +6000,7 @@ unicode = 8722;
 },
 {
 glyphname = multiply;
-lastChange = "2025-11-14 09:04:38 +0000";
+lastChange = "2025-11-14 09:14:55 +0000";
 layers = (
 {
 layerId = "C18D3387-8030-4A68-97FB-3AF8A3E1D39D";
@@ -5990,19 +6008,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(160,55,l),
+(275,170,l),
+(390,55,l),
+(497,162,l),
+(382,277,l),
 (497,392,l),
 (390,499,l),
-(53,162,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(497,162,l),
+(275,384,l),
 (160,499,l),
 (53,392,l),
-(390,55,l)
+(168,277,l),
+(53,162,l),
+(160,55,l)
 );
 }
 );
@@ -8117,7 +8134,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHSans)";
+value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHDisplay)";
 }
 );
 },

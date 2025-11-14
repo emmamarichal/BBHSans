@@ -7659,7 +7659,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHSans)";
+value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHDisplay)";
 }
 );
 },
