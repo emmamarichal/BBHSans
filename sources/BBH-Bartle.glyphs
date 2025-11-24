@@ -140,10 +140,15 @@ percent
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2025-04-15 10:57:34 +0000";
-familyName = "BBH Display Bartle";
+familyName = "BBH Bartle";
 featurePrefixes = (
 {
 automatic = 1;
@@ -8134,7 +8139,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHDisplay)";
+value = "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)";
 }
 );
 },
@@ -8152,9 +8157,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: openfontlicense.org";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
@@ -8164,10 +8173,6 @@ language = dflt;
 value = "Studio Drama";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "BBH Display";
 }
 );
 settings = {
