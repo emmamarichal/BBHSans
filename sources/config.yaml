@@ -1,7 +1,7 @@
 sources:
-  - BBHDisplay-Bartle.glyphs
-  - BBHDisplay-Bogle.glyphs
-  - BBHDisplay-Hegarty.glyphs
+  - BBH-Bartle.glyphs
+  - BBH-Bogle.glyphs
+  - BBH-Hegarty.glyphs
 familyName: "BBH Display"
 buildVariable: false
 buildStatic: true
