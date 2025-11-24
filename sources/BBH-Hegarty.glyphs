@@ -145,7 +145,7 @@ value = 1;
 }
 );
 date = "2025-04-15 10:57:34 +0000";
-familyName = "BBH Display Hegarty";
+familyName = "BBH Hegarty";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;";
@@ -14088,7 +14088,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The BBH Display Project Authors (https://github.com/Studio-DRAMA/BBHDisplay)";
+value = "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)";
 }
 );
 },
@@ -14118,10 +14118,6 @@ language = dflt;
 value = "Studio Drama";
 }
 );
-},
-{
-key = postscriptFontName;
-value = "BBH Display";
 }
 );
 settings = {
